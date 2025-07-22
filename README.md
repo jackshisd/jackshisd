@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jackshisd
-- 👀 I’m interested in Electrical and Computer Engineering and emulation
-- 🌱 I’m currently interested in consumer electronics
-- 💞️ I’m looking to create awesome projects
+- 👀 I’m an Eletrical Engineering Undergraduate at UCLA
+- 🌱 I’m currently interested in a career in consumer electronics/product management
+- 💞️ I’m looking to create awesome projects with spare parts
 - 📫 Email me @ jackmshi@ucla.edu
 
 <!---
