@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jackshisd
-- 👀 I’m an Eletrical Engineering Undergraduate at UCLA
+- 👀 I’m an Electrical Engineering undergraduate at UCLA
 - 🌱 I’m currently interested in a career in consumer electronics/product management
 - 💞️ I’m looking to create awesome projects with spare parts
 - 📫 Email me @ jackmshi@ucla.edu
