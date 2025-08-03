@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @jackshisd
-- 👀 I’m an Electrical Engineering undergraduate at UCLA
-- 🌱 I’m currently interested in a career in consumer electronics/product management
-- 💞️ I’m looking to create awesome projects with spare parts
-- 📫 Email me @ jackmshi@ucla.edu
+![alt text](resume_august2025.png "Logo Title Text 1")
 
 <!---
 jackshisd/jackshisd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
