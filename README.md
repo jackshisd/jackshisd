@@ -6,6 +6,10 @@ Jack Shi is an Electrical Engineering student at UCLA with a focus on embedded s
 
 ![alt text](resume_september2025.png "Logo Title Text 1")
 
+# Projects
+
+View my featured projects below. Visit my public repositories to see all my projects.
+
 <!---
 jackshisd/jackshisd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
