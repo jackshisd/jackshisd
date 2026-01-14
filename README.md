@@ -4,7 +4,7 @@ Jack Shi is an Electrical Engineering student at UCLA with a focus on embedded s
 
 # Resume
 
-![alt text](resume_october2025.png "Logo Title Text 1")
+![alt text](resume_january2026.png "Logo Title Text 1")
 
 # Projects
 
