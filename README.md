@@ -1,6 +1,8 @@
 # Biography
 
-Jack Shi is an Electrical Engineering student at UCLA with a focus on embedded systems, circuit design, and hardware prototyping. He has co-authored a paper submitted to ACM CHI 2026 on wearable sensing technology and completed research internships at UC San Diego and San Diego State, gaining experience in system design, MATLAB programming, and full-stack development. Outside of academics, Jack builds personal projects such as custom PCBs, smart keychains, and device restorations, combining technical precision with creative design. He is passionate about applying engineering to solve real-world problems and is actively seeking opportunities in hardware and embedded systems.
+I am an Electrical Engineering student at UCLA with a strong focus on embedded systems, circuit design, and hardware prototyping. I am currently working in UCLA’s Emergence of Communication Lab, where I help design and integrate wearable sensing systems for infant research studies, spanning system architecture, PCB design and assembly, and embedded firmware development. I am also a co-author on a paper submitted to ACM CHI 2026 on wearable sensing technology.
+
+Previously, I completed research work at UC San Diego and San Diego State, gaining experience in system-level design, data analysis, and MATLAB-based experimentation. Outside of research, I build end-to-end embedded projects such as Dining Buddy, a custom ESP32-based smart keychain involving PCB design, power management, firmware, and enclosure design, as well as other hardware prototypes and device restorations. I am passionate about developing reliable, user-facing hardware and am actively seeking opportunities in embedded and hardware engineering.
 
 # Resume
 
