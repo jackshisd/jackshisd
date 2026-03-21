@@ -6,7 +6,7 @@ Previously, I completed research work at UC San Diego and San Diego State, gaini
 
 # Resume
 
-![alt text](resume_january2026.png "Logo Title Text 1")
+![alt text](resume_march2026.png "Logo Title Text 1")
 
 # Projects
 
